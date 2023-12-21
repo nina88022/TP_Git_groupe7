@@ -13,6 +13,11 @@ header {
 main {
   margin: 20px;
 }
+section {
+    border-style: dotted;
+    /* Autres styles... */
+}
+
 
 section {
   margin-bottom: 30px;
